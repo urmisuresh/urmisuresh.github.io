@@ -93,23 +93,6 @@ hr {
     margin-top: 2%;    
 }
 
-/*
-.home-content {
-    margin-top: 50px; 
-    margin-bottom: 100px; 
-    width: 55%; 
-    height: 300px; 
-    margin: 0 auto; 
-    text-align: center;  
-}
-
-.home-content p{
-    font-family: 'Raleway', sans-serif;   
-    font-size: 120%;
-    padding: 10px;
-}
-*/
-
 .home-icons {
     display: flex; 
     align-items: center; 
