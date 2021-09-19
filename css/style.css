@@ -240,6 +240,7 @@ ion-icon:hover {
     height: 450px;
     width: auto;
     margin-right: 5%; 
+    margin-top: -180px;
 }
 
 .about-text {
