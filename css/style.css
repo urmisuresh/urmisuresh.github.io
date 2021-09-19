@@ -252,6 +252,10 @@ ion-icon:hover {
     color: #7C6394; 
 }
 
+.urmi-certifications {
+    margin-bottom: 10px;
+}
+
 .certification-links:link, 
 .certification-links:visited {
     text-decoration: none; 
