@@ -226,8 +226,6 @@ ion-icon:hover {
     font-family: 'Raleway', sans-serif;   
 }
     
-
-
 .about-me {
     margin-left: 15%; 
     margin-right: 15%;
@@ -253,7 +251,7 @@ ion-icon:hover {
 }
 
 .urmi-certifications {
-    margin-bottom: 10px;
+    margin-bottom: 100px;
 }
 
 .certification-links:link, 
